@@ -1,5 +1,7 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -45,7 +47,6 @@ body{
     color: #000000;
     font-family: "Montserrat", serif;
     font-weight: 600;
-
 }
 .apresentacao_links_github {
     background-color: #22D4FD;
